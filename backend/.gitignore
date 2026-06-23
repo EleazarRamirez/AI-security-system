@@ -1,0 +1,9 @@
+
+# Storage
+storage/
+
+# SQLite
+*.db
+
+#venv
+venv/
